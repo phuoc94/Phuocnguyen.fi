@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "author": "Phuoc Nguyen <phuoc94@hotmail.fi>",
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.12.1",
+    "@fortawesome/fontawesome-free": "^5.15.4",
     "bootstrap": "^4.4.1",
     "gatsby": "^3.11.0",
     "gatsby-plugin-manifest": "^3.10.0",
