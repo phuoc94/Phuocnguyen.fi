@@ -18,16 +18,16 @@
     "gatsby-plugin-sharp": "^2.14.4",
     "gatsby-transformer-json": "^3.14.0",
     "gatsby-transformer-sharp": "^2.3.13",
-    "joi": "^17.4.2",
     "node-sass": "^7.0.1",
-    "prop-types": "^15.7.2",
+    "joi": "^17.5.0",
+    "prop-types": "^15.8.1",
     "react": "^17.0.2",
-    "react-bootstrap": "^2.0.2",
+    "react-bootstrap": "^2.1.1",
     "react-dom": "^17.0.2",
     "react-helmet": "^6.1.0"
   },
   "devDependencies": {
-    "prettier": "^2.5.0"
+    "prettier": "^2.5.1"
   },
   "keywords": [
     "gatsby"
